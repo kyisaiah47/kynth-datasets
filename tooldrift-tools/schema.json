@@ -1,0 +1,176 @@
+{
+  "dataset": "tooldrift-tools",
+  "cut": "2026-09-04",
+  "columns": [
+    {
+      "column": "slug",
+      "type": "string",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "name",
+      "type": "string",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "layer",
+      "type": "string",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "vendor",
+      "type": "string",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "homepage",
+      "type": "string",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "pricing_url",
+      "type": "string",
+      "null_share_in_sample": 0.0833
+    },
+    {
+      "column": "docs_url",
+      "type": "string",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "github_full_name",
+      "type": "string",
+      "null_share_in_sample": 0.6667
+    },
+    {
+      "column": "openrouter_app_slug",
+      "type": "string",
+      "null_share_in_sample": 0.8333
+    },
+    {
+      "column": "status",
+      "type": "string",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "status_note",
+      "type": "string",
+      "null_share_in_sample": 0.8056
+    },
+    {
+      "column": "status_changed_on",
+      "type": "string",
+      "null_share_in_sample": 0.8333
+    },
+    {
+      "column": "acquired_by",
+      "type": "string",
+      "null_share_in_sample": 0.9167
+    },
+    {
+      "column": "default_model",
+      "type": "string",
+      "null_share_in_sample": 0.7778
+    },
+    {
+      "column": "default_model_note",
+      "type": "string",
+      "null_share_in_sample": 0.5
+    },
+    {
+      "column": "byo_key",
+      "type": "boolean",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "open_source",
+      "type": "boolean",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "license",
+      "type": "string",
+      "null_share_in_sample": 0.6944
+    },
+    {
+      "column": "pricing_model",
+      "type": "string",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "description",
+      "type": "string",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "tags",
+      "type": "array",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "gh_stars",
+      "type": "number",
+      "null_share_in_sample": 0.6667
+    },
+    {
+      "column": "gh_forks",
+      "type": "number",
+      "null_share_in_sample": 0.6667
+    },
+    {
+      "column": "gh_archived",
+      "type": "boolean",
+      "null_share_in_sample": 0.6667
+    },
+    {
+      "column": "gh_pushed_at",
+      "type": "string",
+      "null_share_in_sample": 0.6667
+    },
+    {
+      "column": "gh_days_since_push",
+      "type": "number",
+      "null_share_in_sample": 0.6667
+    },
+    {
+      "column": "gh_maintenance",
+      "type": "number",
+      "null_share_in_sample": 0.6667
+    },
+    {
+      "column": "gh_dead",
+      "type": "boolean",
+      "null_share_in_sample": 0.6667
+    },
+    {
+      "column": "gh_star_delta_30d",
+      "type": "number",
+      "null_share_in_sample": 0.6667
+    },
+    {
+      "column": "or_rank",
+      "type": "number",
+      "null_share_in_sample": 0.8889
+    },
+    {
+      "column": "or_tokens_week",
+      "type": "number",
+      "null_share_in_sample": 0.8889
+    },
+    {
+      "column": "last_pricing_check",
+      "type": "string",
+      "null_share_in_sample": 0.0833
+    },
+    {
+      "column": "last_change_at",
+      "type": "string",
+      "null_share_in_sample": 0.3333
+    },
+    {
+      "column": "curated_on",
+      "type": "string",
+      "null_share_in_sample": 0
+    }
+  ]
+}

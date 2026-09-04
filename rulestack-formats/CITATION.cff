@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this dataset, cite it as below."
+title: "RuleStack: the agent config formats and what each one supports"
+abstract: "One row per agent config format (AGENTS.md, CLAUDE.md and the rest): which tools read it, whether it supports frontmatter, globs, imports, nesting, multiple files and user scope, and the specification URL each of those was verified against."
+type: dataset
+authors:
+  - name: "Kynth Studios"
+    website: "https://kynth.studio"
+version: "2026-09-04"
+date-released: "2026-09-04"
+license: CC-BY-4.0
+url: "https://github.com/kyisaiah47/kynth-datasets/tree/main/rulestack-formats"
+repository: "https://github.com/kyisaiah47/kynth-datasets"
+keywords:
+  - rulestack
+  - open data
+  - measurement
+  - ai tooling

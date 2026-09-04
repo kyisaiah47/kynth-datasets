@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this dataset, cite it as below."
+title: "StoreReady: the cited evidence behind every verdict"
+abstract: "One row per piece of evidence: which builder it is about, which claim it supports, the source it came from with its title and date, the quoted passage, and the HTTP status that source last returned."
+type: dataset
+authors:
+  - name: "Kynth Studios"
+    website: "https://kynth.studio"
+version: "2026-09-04"
+date-released: "2026-09-04"
+license: CC-BY-4.0
+url: "https://github.com/kyisaiah47/kynth-datasets/tree/main/storeready-evidence"
+repository: "https://github.com/kyisaiah47/kynth-datasets"
+keywords:
+  - storeready
+  - open data
+  - measurement
+  - ai tooling

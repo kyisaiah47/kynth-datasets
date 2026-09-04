@@ -1,0 +1,61 @@
+{
+  "dataset": "skillworks-category-census",
+  "cut": "2026-09-04",
+  "columns": [
+    {
+      "column": "category",
+      "type": "string",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "kind",
+      "type": "string",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "listings",
+      "type": "number",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "repositories",
+      "type": "number",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "listings_that_do_not_load",
+      "type": "number",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "listings_that_load",
+      "type": "number",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "mean_score",
+      "type": "number",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "official",
+      "type": "number",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "archived_repository",
+      "type": "number",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "with_a_license",
+      "type": "number",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "total_repository_stars",
+      "type": "number",
+      "null_share_in_sample": 0
+    }
+  ]
+}

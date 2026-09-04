@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this dataset, cite it as below."
+title: "KitGrade: SaaS starter kits and what is measurably in the box"
+abstract: "One row per graded SaaS starter kit: its stack, licence and pricing, the release and commit activity behind it, what its own documentation says ships in the box, and the evidence level the grade rests on."
+type: dataset
+authors:
+  - name: "Kynth Studios"
+    website: "https://kynth.studio"
+version: "2026-09-04"
+date-released: "2026-09-04"
+license: CC-BY-4.0
+url: "https://github.com/kyisaiah47/kynth-datasets/tree/main/kitgrade-kits"
+repository: "https://github.com/kyisaiah47/kynth-datasets"
+keywords:
+  - kitgrade
+  - open data
+  - measurement
+  - ai tooling

@@ -1,0 +1,81 @@
+{
+  "dataset": "stacktab-plans",
+  "cut": "2026-09-04",
+  "columns": [
+    {
+      "column": "service_slug",
+      "type": "string",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "plan_slug",
+      "type": "string",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "name",
+      "type": "string",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "rank",
+      "type": "number",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "base_monthly_usd",
+      "type": "number",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "price_status",
+      "type": "string",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "included",
+      "type": "object",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "restrictions",
+      "type": "object",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "notes",
+      "type": "string",
+      "null_share_in_sample": 0.0781
+    },
+    {
+      "column": "source_url",
+      "type": "string",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "probes",
+      "type": "array",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "check_status",
+      "type": "string",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "verified_at",
+      "type": "string",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "last_checked_at",
+      "type": "string",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "last_check_note",
+      "type": "string",
+      "null_share_in_sample": 0.9844
+    }
+  ]
+}

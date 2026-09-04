@@ -1,0 +1,221 @@
+{
+  "dataset": "kitgrade-kits",
+  "cut": "2026-09-04",
+  "columns": [
+    {
+      "column": "slug",
+      "type": "string",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "name",
+      "type": "string",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "vendor",
+      "type": "string",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "homepage",
+      "type": "string",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "pricing_url",
+      "type": "string",
+      "null_share_in_sample": 0.6111
+    },
+    {
+      "column": "docs_url",
+      "type": "string",
+      "null_share_in_sample": 0.2222
+    },
+    {
+      "column": "repo",
+      "type": "string",
+      "null_share_in_sample": 0.3889
+    },
+    {
+      "column": "ecosystem",
+      "type": "string",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "stack",
+      "type": "array",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "license",
+      "type": "string",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "license_source",
+      "type": "string",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "open_source",
+      "type": "boolean",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "pricing_model",
+      "type": "string",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "price_min_usd",
+      "type": "number",
+      "null_share_in_sample": 0.0556
+    },
+    {
+      "column": "price_max_usd",
+      "type": "number",
+      "null_share_in_sample": 0.0556
+    },
+    {
+      "column": "price_evidence",
+      "type": "string",
+      "null_share_in_sample": 0.6667
+    },
+    {
+      "column": "price_checked_at",
+      "type": "string",
+      "null_share_in_sample": 0.6111
+    },
+    {
+      "column": "price_points",
+      "type": "array",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "price_unmeasurable",
+      "type": "boolean",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "last_commit_at",
+      "type": "string",
+      "null_share_in_sample": 0.3889
+    },
+    {
+      "column": "last_release_at",
+      "type": "string",
+      "null_share_in_sample": 0.5556
+    },
+    {
+      "column": "last_release_tag",
+      "type": "string",
+      "null_share_in_sample": 0.5278
+    },
+    {
+      "column": "releases_12mo",
+      "type": "number",
+      "null_share_in_sample": 0.3889
+    },
+    {
+      "column": "stars",
+      "type": "number",
+      "null_share_in_sample": 0.3889
+    },
+    {
+      "column": "forks",
+      "type": "number",
+      "null_share_in_sample": 0.3889
+    },
+    {
+      "column": "open_issues",
+      "type": "number",
+      "null_share_in_sample": 0.3889
+    },
+    {
+      "column": "contributors",
+      "type": "number",
+      "null_share_in_sample": 0.3889
+    },
+    {
+      "column": "includes",
+      "type": "object",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "support_model",
+      "type": "string",
+      "null_share_in_sample": 0.0833
+    },
+    {
+      "column": "support_source",
+      "type": "string",
+      "null_share_in_sample": 0.0833
+    },
+    {
+      "column": "docs_pages",
+      "type": "number",
+      "null_share_in_sample": 0.6111
+    },
+    {
+      "column": "docs_kind",
+      "type": "string",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "evidence_level",
+      "type": "string",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "active",
+      "type": "boolean",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "archived",
+      "type": "boolean",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "logo_url",
+      "type": "string",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "summary",
+      "type": "string",
+      "null_share_in_sample": 0.0278
+    },
+    {
+      "column": "summary_source",
+      "type": "string",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "changelog_url",
+      "type": "string",
+      "null_share_in_sample": 0.9722
+    },
+    {
+      "column": "changelog_source",
+      "type": "string",
+      "null_share_in_sample": 0.9722
+    },
+    {
+      "column": "edition_of",
+      "type": "string",
+      "null_share_in_sample": 0.9722
+    },
+    {
+      "column": "edition_label",
+      "type": "string",
+      "null_share_in_sample": 0.9444
+    },
+    {
+      "column": "refreshed_at",
+      "type": "string",
+      "null_share_in_sample": 0
+    }
+  ]
+}

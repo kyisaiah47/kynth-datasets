@@ -1,0 +1,66 @@
+{
+  "dataset": "rulestack-format-stats",
+  "cut": "2026-09-04",
+  "columns": [
+    {
+      "column": "day",
+      "type": "string",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "format",
+      "type": "string",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "repo_count",
+      "type": "number",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "config_count",
+      "type": "number",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "median_words",
+      "type": "number",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "p90_words",
+      "type": "number",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "median_stars",
+      "type": "number",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "total_stars",
+      "type": "number",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "share_pct",
+      "type": "number",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "with_commands_pct",
+      "type": "number",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "with_code_pct",
+      "type": "number",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "median_quality",
+      "type": "number",
+      "null_share_in_sample": 0
+    }
+  ]
+}

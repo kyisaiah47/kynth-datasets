@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this dataset, cite it as below."
+title: "StackTab: the developer services under price watch"
+abstract: "One row per developer service whose pricing StackTab reads: its category, its homepage and the pricing page the plan figures were read from."
+type: dataset
+authors:
+  - name: "Kynth Studios"
+    website: "https://kynth.studio"
+version: "2026-09-04"
+date-released: "2026-09-04"
+license: CC-BY-4.0
+url: "https://github.com/kyisaiah47/kynth-datasets/tree/main/stacktab-services"
+repository: "https://github.com/kyisaiah47/kynth-datasets"
+keywords:
+  - stacktab
+  - open data
+  - measurement
+  - ai tooling

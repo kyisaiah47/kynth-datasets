@@ -1,0 +1,56 @@
+{
+  "dataset": "tooldrift-model-rankings",
+  "cut": "2026-09-04",
+  "columns": [
+    {
+      "column": "captured_on",
+      "type": "string",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "time_window",
+      "type": "string",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "model_id",
+      "type": "string",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "permaslug",
+      "type": "string",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "rank",
+      "type": "number",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "total_tokens",
+      "type": "number",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "prompt_tokens",
+      "type": "number",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "completion_tokens",
+      "type": "number",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "requests",
+      "type": "number",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "share_pct",
+      "type": "number",
+      "null_share_in_sample": 0
+    }
+  ]
+}

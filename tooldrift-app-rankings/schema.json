@@ -1,0 +1,51 @@
+{
+  "dataset": "tooldrift-app-rankings",
+  "cut": "2026-09-04",
+  "columns": [
+    {
+      "column": "captured_on",
+      "type": "string",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "time_window",
+      "type": "string",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "app_slug",
+      "type": "string",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "app_title",
+      "type": "string",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "tool_slug",
+      "type": "string",
+      "null_share_in_sample": 0.8003
+    },
+    {
+      "column": "categories",
+      "type": "array",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "rank",
+      "type": "number",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "total_tokens",
+      "type": "number",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "total_requests",
+      "type": "number",
+      "null_share_in_sample": 0
+    }
+  ]
+}

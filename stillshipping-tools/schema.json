@@ -1,0 +1,201 @@
+{
+  "dataset": "stillshipping-tools",
+  "cut": "2026-09-04",
+  "columns": [
+    {
+      "column": "slug",
+      "type": "string",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "name",
+      "type": "string",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "repo_full_name",
+      "type": "string",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "category",
+      "type": "string",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "vendor",
+      "type": "string",
+      "null_share_in_sample": 0.9382
+    },
+    {
+      "column": "tagline",
+      "type": "string",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "homepage",
+      "type": "string",
+      "null_share_in_sample": 0.1353
+    },
+    {
+      "column": "aliases",
+      "type": "array",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "verdict",
+      "type": "string",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "freshness",
+      "type": "number",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "reasons",
+      "type": "array",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "verdict_at",
+      "type": "string",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "previous_verdict",
+      "type": "string",
+      "null_share_in_sample": 0.9382
+    },
+    {
+      "column": "verdict_changed_at",
+      "type": "string",
+      "null_share_in_sample": 0.9382
+    },
+    {
+      "column": "stars",
+      "type": "number",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "forks",
+      "type": "number",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "open_issues",
+      "type": "number",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "language",
+      "type": "string",
+      "null_share_in_sample": 0.0118
+    },
+    {
+      "column": "license",
+      "type": "string",
+      "null_share_in_sample": 0.1706
+    },
+    {
+      "column": "archived",
+      "type": "boolean",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "disabled",
+      "type": "boolean",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "description",
+      "type": "string",
+      "null_share_in_sample": 0.0059
+    },
+    {
+      "column": "created_at",
+      "type": "string",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "pushed_at",
+      "type": "string",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "days_since_push",
+      "type": "number",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "recent_commits",
+      "type": "number",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "last_release_at",
+      "type": "string",
+      "null_share_in_sample": 0.1412
+    },
+    {
+      "column": "last_release_tag",
+      "type": "string",
+      "null_share_in_sample": 0.1412
+    },
+    {
+      "column": "releases_365d",
+      "type": "number",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "release_gap_days",
+      "type": "number",
+      "null_share_in_sample": 0.1412
+    },
+    {
+      "column": "median_release_gap",
+      "type": "number",
+      "null_share_in_sample": 0.1941
+    },
+    {
+      "column": "issue_response_hours",
+      "type": "number",
+      "null_share_in_sample": 0.6176
+    },
+    {
+      "column": "issues_sampled",
+      "type": "number",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "stale_issue_ratio",
+      "type": "number",
+      "null_share_in_sample": 0.0441
+    },
+    {
+      "column": "contributors_90d",
+      "type": "number",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "contributors_total",
+      "type": "null",
+      "null_share_in_sample": 1
+    },
+    {
+      "column": "bus_factor",
+      "type": "number",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "first_seen",
+      "type": "string",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "refreshed_at",
+      "type": "string",
+      "null_share_in_sample": 0
+    }
+  ]
+}

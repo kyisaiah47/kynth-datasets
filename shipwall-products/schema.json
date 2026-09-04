@@ -1,0 +1,121 @@
+{
+  "dataset": "shipwall-products",
+  "cut": "2026-09-04",
+  "columns": [
+    {
+      "column": "slug",
+      "type": "string",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "name",
+      "type": "string",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "tagline",
+      "type": "string",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "description",
+      "type": "string",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "website_url",
+      "type": "string",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "website_host",
+      "type": "string",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "repo_url",
+      "type": "null",
+      "null_share_in_sample": 1
+    },
+    {
+      "column": "demo_url",
+      "type": "null",
+      "null_share_in_sample": 1
+    },
+    {
+      "column": "video_url",
+      "type": "null",
+      "null_share_in_sample": 1
+    },
+    {
+      "column": "logo_url",
+      "type": "string",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "category_slug",
+      "type": "string",
+      "null_share_in_sample": 0.6279
+    },
+    {
+      "column": "built_with",
+      "type": "array",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "human_edited",
+      "type": "string",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "pricing",
+      "type": "string",
+      "null_share_in_sample": 0.3721
+    },
+    {
+      "column": "maker_handle",
+      "type": "string",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "launch_date",
+      "type": "string",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "launch_slot",
+      "type": "number",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "launched_at",
+      "type": "string",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "featured",
+      "type": "boolean",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "upvote_count",
+      "type": "number",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "badge_found_at",
+      "type": "string",
+      "null_share_in_sample": 0.9767
+    },
+    {
+      "column": "badge_last_checked_at",
+      "type": "string",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "badge_http_status",
+      "type": "number",
+      "null_share_in_sample": 0
+    }
+  ]
+}

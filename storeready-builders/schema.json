@@ -1,0 +1,96 @@
+{
+  "dataset": "storeready-builders",
+  "cut": "2026-09-04",
+  "columns": [
+    {
+      "column": "slug",
+      "type": "string",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "name",
+      "type": "string",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "tagline",
+      "type": "string",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "url",
+      "type": "string",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "category",
+      "type": "string",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "output_type",
+      "type": "string",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "output_detail",
+      "type": "string",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "exports_source",
+      "type": "string",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "exports_source_detail",
+      "type": "string",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "submits_for_you",
+      "type": "string",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "price_free",
+      "type": "boolean",
+      "null_share_in_sample": 0.1429
+    },
+    {
+      "column": "price_from_usd",
+      "type": "number",
+      "null_share_in_sample": 0.0714
+    },
+    {
+      "column": "price_note",
+      "type": "string",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "review_verdict",
+      "type": "string",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "review_summary",
+      "type": "string",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "risk_guidelines",
+      "type": "array",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "rank",
+      "type": "number",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "updated_at",
+      "type": "string",
+      "null_share_in_sample": 0
+    }
+  ]
+}

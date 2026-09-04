@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this dataset, cite it as below."
+title: "StillShipping: maintenance verdict for every tracked agent tool"
+abstract: "One row per tracked AI agent tool, with the nightly maintenance verdict (maintained, slowing or dead), the 0-100 freshness behind it, and every GitHub signal the verdict was computed from."
+type: dataset
+authors:
+  - name: "Kynth Studios"
+    website: "https://kynth.studio"
+version: "2026-09-04"
+date-released: "2026-09-04"
+license: CC-BY-4.0
+url: "https://github.com/kyisaiah47/kynth-datasets/tree/main/stillshipping-tools"
+repository: "https://github.com/kyisaiah47/kynth-datasets"
+keywords:
+  - stillshipping
+  - open data
+  - measurement
+  - ai tooling

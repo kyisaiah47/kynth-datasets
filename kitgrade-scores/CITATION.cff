@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this dataset, cite it as below."
+title: "KitGrade: the component scores behind every kit grade"
+abstract: "One row per kit carrying the six component scores the total is composed from, the method version that produced them, and the full breakdown JSON."
+type: dataset
+authors:
+  - name: "Kynth Studios"
+    website: "https://kynth.studio"
+version: "2026-09-04"
+date-released: "2026-09-04"
+license: CC-BY-4.0
+url: "https://github.com/kyisaiah47/kynth-datasets/tree/main/kitgrade-scores"
+repository: "https://github.com/kyisaiah47/kynth-datasets"
+keywords:
+  - kitgrade
+  - open data
+  - measurement
+  - ai tooling

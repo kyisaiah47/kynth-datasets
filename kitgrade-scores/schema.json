@@ -1,0 +1,66 @@
+{
+  "dataset": "kitgrade-scores",
+  "cut": "2026-09-04",
+  "columns": [
+    {
+      "column": "kit_slug",
+      "type": "string",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "method_version",
+      "type": "string",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "total",
+      "type": "number",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "normalised",
+      "type": "number",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "coverage",
+      "type": "number",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "maintenance",
+      "type": "number",
+      "null_share_in_sample": 0.3889
+    },
+    {
+      "column": "completeness",
+      "type": "number",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "transparency",
+      "type": "number",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "documentation",
+      "type": "number",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "support",
+      "type": "number",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "breakdown",
+      "type": "object",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "computed_at",
+      "type": "string",
+      "null_share_in_sample": 0
+    }
+  ]
+}

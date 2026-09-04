@@ -1,0 +1,141 @@
+{
+  "dataset": "blockdex-items",
+  "cut": "2026-09-04",
+  "columns": [
+    {
+      "column": "id",
+      "type": "string",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "registry_slug",
+      "type": "string",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "name",
+      "type": "string",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "title",
+      "type": "string",
+      "null_share_in_sample": 0.4205
+    },
+    {
+      "column": "description",
+      "type": "string",
+      "null_share_in_sample": 0.3895
+    },
+    {
+      "column": "type",
+      "type": "string",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "kind",
+      "type": "string",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "categories",
+      "type": "array",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "dependencies",
+      "type": "array",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "registry_dependencies",
+      "type": "array",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "dev_dependencies",
+      "type": "array",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "file_paths",
+      "type": "array",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "file_count",
+      "type": "number",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "primary_file",
+      "type": "string",
+      "null_share_in_sample": 0.012
+    },
+    {
+      "column": "has_tailwind_config",
+      "type": "boolean",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "has_css_vars",
+      "type": "boolean",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "item_url",
+      "type": "string",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "install_cmd",
+      "type": "string",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "docs_url",
+      "type": "string",
+      "null_share_in_sample": 0.6395
+    },
+    {
+      "column": "preview_url",
+      "type": "string",
+      "null_share_in_sample": 0.6585
+    },
+    {
+      "column": "preview_embeddable",
+      "type": "boolean",
+      "null_share_in_sample": 0.6585
+    },
+    {
+      "column": "access",
+      "type": "string",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "status",
+      "type": "string",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "first_seen",
+      "type": "string",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "last_seen",
+      "type": "string",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "removed_on",
+      "type": "string",
+      "null_share_in_sample": 0.758
+    },
+    {
+      "column": "registry_stars",
+      "type": "number",
+      "null_share_in_sample": 0.5695
+    }
+  ]
+}

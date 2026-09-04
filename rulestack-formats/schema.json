@@ -1,0 +1,126 @@
+{
+  "dataset": "rulestack-formats",
+  "cut": "2026-09-04",
+  "columns": [
+    {
+      "column": "slug",
+      "type": "string",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "name",
+      "type": "string",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "filename",
+      "type": "string",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "artifact_kind",
+      "type": "string",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "vendor",
+      "type": "string",
+      "null_share_in_sample": 0.125
+    },
+    {
+      "column": "status",
+      "type": "string",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "spec_url",
+      "type": "string",
+      "null_share_in_sample": 0.875
+    },
+    {
+      "column": "docs_url",
+      "type": "string",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "first_released",
+      "type": "string",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "tools",
+      "type": "array",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "cross_tool",
+      "type": "boolean",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "supports_frontmatter",
+      "type": "boolean",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "supports_globs",
+      "type": "boolean",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "supports_imports",
+      "type": "boolean",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "supports_nested",
+      "type": "boolean",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "supports_multifile",
+      "type": "boolean",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "supports_user_scope",
+      "type": "boolean",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "activation",
+      "type": "string",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "size_limit",
+      "type": "string",
+      "null_share_in_sample": 0.875
+    },
+    {
+      "column": "summary",
+      "type": "string",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "strengths",
+      "type": "array",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "weaknesses",
+      "type": "array",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "verified_at",
+      "type": "string",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "sort_order",
+      "type": "number",
+      "null_share_in_sample": 0
+    }
+  ]
+}

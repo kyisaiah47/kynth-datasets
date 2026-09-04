@@ -1,0 +1,76 @@
+{
+  "dataset": "stillshipping-history",
+  "cut": "2026-09-04",
+  "columns": [
+    {
+      "column": "tool_slug",
+      "type": "string",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "captured_on",
+      "type": "string",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "verdict",
+      "type": "string",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "freshness",
+      "type": "number",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "days_since_push",
+      "type": "number",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "recent_commits",
+      "type": "number",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "release_gap_days",
+      "type": "number",
+      "null_share_in_sample": 0.1385
+    },
+    {
+      "column": "issue_response_hours",
+      "type": "number",
+      "null_share_in_sample": 0.7745
+    },
+    {
+      "column": "contributors_90d",
+      "type": "number",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "stars",
+      "type": "number",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "open_issues",
+      "type": "number",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "archived",
+      "type": "boolean",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "reasons",
+      "type": "array",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "captured_at",
+      "type": "string",
+      "null_share_in_sample": 0
+    }
+  ]
+}

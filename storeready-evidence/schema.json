@@ -1,0 +1,56 @@
+{
+  "dataset": "storeready-evidence",
+  "cut": "2026-09-04",
+  "columns": [
+    {
+      "column": "builder_slug",
+      "type": "string",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "supports",
+      "type": "string",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "claim",
+      "type": "string",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "kind",
+      "type": "string",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "source_url",
+      "type": "string",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "source_title",
+      "type": "string",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "source_date",
+      "type": "string",
+      "null_share_in_sample": 0
+    },
+    {
+      "column": "quote",
+      "type": "string",
+      "null_share_in_sample": 0.383
+    },
+    {
+      "column": "link_status",
+      "type": "null",
+      "null_share_in_sample": 1
+    },
+    {
+      "column": "link_checked_at",
+      "type": "null",
+      "null_share_in_sample": 1
+    }
+  ]
+}

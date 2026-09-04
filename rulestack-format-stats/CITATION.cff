@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this dataset, cite it as below."
+title: "RuleStack: how much each config format is actually used, day by day"
+abstract: "One row per format per day: how many repositories carry it, how many config files were read, how long those files are at the median and the 90th percentile, and what share of them carry runnable commands or code."
+type: dataset
+authors:
+  - name: "Kynth Studios"
+    website: "https://kynth.studio"
+version: "2026-09-04"
+date-released: "2026-09-04"
+license: CC-BY-4.0
+url: "https://github.com/kyisaiah47/kynth-datasets/tree/main/rulestack-format-stats"
+repository: "https://github.com/kyisaiah47/kynth-datasets"
+keywords:
+  - rulestack
+  - open data
+  - measurement
+  - ai tooling
