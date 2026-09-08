@@ -1,7 +1,7 @@
-# Kynth Studios open datasets
+# Compound Labs open datasets
 
 18 datasets, 145,791 rows in the cut of 2026-09-04. Every one of them is a
-measurement of public things that a Kynth Studios index product already computes and already
+measurement of public things that a Compound Labs index product already computes and already
 publishes on its own site: public repositories, public component registries, public pricing
 pages, public app-store listings, public agent config files.
 
@@ -53,7 +53,7 @@ The same cuts mirror to Hugging Face and Kaggle. The mirror links are on each da
 | `shipwall_products (unlaunched rows and submitter fields)` | A pending submission is not public, and the email address, IP hash, edit token, moderation notes and payment intent on every row are never exported. |
 
 The column list for every dataset is an allowlist, written out one column at a time in
-`tools/datasets/registry.mjs` in the Kynth Studios ops repository. A column added to a source
+`tools/datasets/registry.mjs` in the Compound Labs ops repository. A column added to a source
 table appears in no export until somebody writes it into that list on purpose, and a second
 check refuses any column name carrying a private shape before a byte is written.
 
@@ -66,5 +66,5 @@ derived from it is quietly wrong.
 
 ## Publisher
 
-[Kynth Studios](https://kynth.studio). The index products that compute these measurements are listed
+[Compound Labs](https://thecompound.tech). The index products that compute these measurements are listed
 on [https://toolproof.kynth.studio/datasets](https://toolproof.kynth.studio/datasets).

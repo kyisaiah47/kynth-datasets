@@ -11,7 +11,7 @@ One row per item in every crawled registry: its type, its dependencies, the file
 | Measured by | [BlockDex](https://blockdex.kynth.studio) |
 | Method | [https://toolproof.kynth.studio/methodology](https://toolproof.kynth.studio/methodology) |
 | Licence | [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) |
-| Publisher | [Kynth Studios](https://kynth.studio) |
+| Publisher | [Compound Labs](https://thecompound.tech) |
 
 ## How it is measured
 
@@ -73,9 +73,9 @@ Kynth Studios (2026). BlockDex: every component, block and theme inside those re
 ```bibtex
 @dataset{kynth_blockdex_items_2026,
   title     = {BlockDex: every component, block and theme inside those registries},
-  author    = {{Kynth Studios}},
+  author    = {{Compound Labs}},
   year      = {2026},
-  publisher = {Kynth Studios},
+  publisher = {Compound Labs},
   url       = {https://github.com/kyisaiah47/kynth-datasets/tree/main/blockdex-items},
   note      = {Cut of 2026-09-04. Measured by BlockDex, https://blockdex.kynth.studio},
   license   = {CC-BY-4.0}

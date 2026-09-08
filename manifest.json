@@ -1,6 +1,6 @@
 {
-  "publisher": "Kynth Studios",
-  "publisher_url": "https://kynth.studio",
+  "publisher": "Compound Labs",
+  "publisher_url": "https://thecompound.tech",
   "repository": "https://github.com/kyisaiah47/kynth-datasets",
   "page": "https://toolproof.kynth.studio/datasets",
   "methodology": "https://toolproof.kynth.studio/methodology",
@@ -55,7 +55,7 @@
         }
       ],
       "license": "CC-BY-4.0",
-      "citation": "Kynth Studios (2026). Toolproof: the nine indexes and what each one currently measures. Toolproof, https://toolproof.kynth.studio. Cut of 2026-09-04. Creative Commons Attribution 4.0 International (CC BY 4.0). https://github.com/kyisaiah47/kynth-datasets/tree/main/toolproof-indexes"
+      "citation": "Compound Labs (2026). Toolproof: the nine indexes and what each one currently measures. Toolproof, https://toolproof.kynth.studio. Cut of 2026-09-04. Creative Commons Attribution 4.0 International (CC BY 4.0). https://github.com/kyisaiah47/kynth-datasets/tree/main/toolproof-indexes"
     },
     {
       "slug": "skillworks-category-census",
@@ -85,7 +85,7 @@
         }
       ],
       "license": "CC-BY-4.0",
-      "citation": "Kynth Studios (2026). SkillWorks: Claude Code artefacts by category and kind. SkillWorks, https://skillworks.kynth.studio. Cut of 2026-09-04. Creative Commons Attribution 4.0 International (CC BY 4.0). https://github.com/kyisaiah47/kynth-datasets/tree/main/skillworks-category-census"
+      "citation": "Compound Labs (2026). SkillWorks: Claude Code artefacts by category and kind. SkillWorks, https://skillworks.kynth.studio. Cut of 2026-09-04. Creative Commons Attribution 4.0 International (CC BY 4.0). https://github.com/kyisaiah47/kynth-datasets/tree/main/skillworks-category-census"
     },
     {
       "slug": "stillshipping-tools",
@@ -115,7 +115,7 @@
         }
       ],
       "license": "CC-BY-4.0",
-      "citation": "Kynth Studios (2026). StillShipping: maintenance verdict for every tracked agent tool. StillShipping, https://stillshipping.kynth.studio. Cut of 2026-09-04. Creative Commons Attribution 4.0 International (CC BY 4.0). https://github.com/kyisaiah47/kynth-datasets/tree/main/stillshipping-tools"
+      "citation": "Compound Labs (2026). StillShipping: maintenance verdict for every tracked agent tool. StillShipping, https://stillshipping.kynth.studio. Cut of 2026-09-04. Creative Commons Attribution 4.0 International (CC BY 4.0). https://github.com/kyisaiah47/kynth-datasets/tree/main/stillshipping-tools"
     },
     {
       "slug": "stillshipping-history",
@@ -145,7 +145,7 @@
         }
       ],
       "license": "CC-BY-4.0",
-      "citation": "Kynth Studios (2026). StillShipping: the daily verdict history. StillShipping, https://stillshipping.kynth.studio. Cut of 2026-09-04. Creative Commons Attribution 4.0 International (CC BY 4.0). https://github.com/kyisaiah47/kynth-datasets/tree/main/stillshipping-history"
+      "citation": "Compound Labs (2026). StillShipping: the daily verdict history. StillShipping, https://stillshipping.kynth.studio. Cut of 2026-09-04. Creative Commons Attribution 4.0 International (CC BY 4.0). https://github.com/kyisaiah47/kynth-datasets/tree/main/stillshipping-history"
     },
     {
       "slug": "tooldrift-tools",
@@ -175,7 +175,7 @@
         }
       ],
       "license": "CC-BY-4.0",
-      "citation": "Kynth Studios (2026). ToolDrift: the AI coding tools under watch. ToolDrift, https://tooldrift.kynth.studio. Cut of 2026-09-04. Creative Commons Attribution 4.0 International (CC BY 4.0). https://github.com/kyisaiah47/kynth-datasets/tree/main/tooldrift-tools"
+      "citation": "Compound Labs (2026). ToolDrift: the AI coding tools under watch. ToolDrift, https://tooldrift.kynth.studio. Cut of 2026-09-04. Creative Commons Attribution 4.0 International (CC BY 4.0). https://github.com/kyisaiah47/kynth-datasets/tree/main/tooldrift-tools"
     },
     {
       "slug": "tooldrift-model-rankings",
@@ -205,7 +205,7 @@
         }
       ],
       "license": "CC-BY-4.0",
-      "citation": "Kynth Studios (2026). ToolDrift: OpenRouter model usage rankings, captured daily. ToolDrift, https://tooldrift.kynth.studio. Cut of 2026-09-04. Creative Commons Attribution 4.0 International (CC BY 4.0). https://github.com/kyisaiah47/kynth-datasets/tree/main/tooldrift-model-rankings"
+      "citation": "Compound Labs (2026). ToolDrift: OpenRouter model usage rankings, captured daily. ToolDrift, https://tooldrift.kynth.studio. Cut of 2026-09-04. Creative Commons Attribution 4.0 International (CC BY 4.0). https://github.com/kyisaiah47/kynth-datasets/tree/main/tooldrift-model-rankings"
     },
     {
       "slug": "tooldrift-app-rankings",
@@ -235,7 +235,7 @@
         }
       ],
       "license": "CC-BY-4.0",
-      "citation": "Kynth Studios (2026). ToolDrift: OpenRouter app usage rankings, captured daily. ToolDrift, https://tooldrift.kynth.studio. Cut of 2026-09-04. Creative Commons Attribution 4.0 International (CC BY 4.0). https://github.com/kyisaiah47/kynth-datasets/tree/main/tooldrift-app-rankings"
+      "citation": "Compound Labs (2026). ToolDrift: OpenRouter app usage rankings, captured daily. ToolDrift, https://tooldrift.kynth.studio. Cut of 2026-09-04. Creative Commons Attribution 4.0 International (CC BY 4.0). https://github.com/kyisaiah47/kynth-datasets/tree/main/tooldrift-app-rankings"
     },
     {
       "slug": "kitgrade-kits",
@@ -265,7 +265,7 @@
         }
       ],
       "license": "CC-BY-4.0",
-      "citation": "Kynth Studios (2026). KitGrade: SaaS starter kits and what is measurably in the box. KitGrade, https://kitgrade.kynth.studio. Cut of 2026-09-04. Creative Commons Attribution 4.0 International (CC BY 4.0). https://github.com/kyisaiah47/kynth-datasets/tree/main/kitgrade-kits"
+      "citation": "Compound Labs (2026). KitGrade: SaaS starter kits and what is measurably in the box. KitGrade, https://kitgrade.kynth.studio. Cut of 2026-09-04. Creative Commons Attribution 4.0 International (CC BY 4.0). https://github.com/kyisaiah47/kynth-datasets/tree/main/kitgrade-kits"
     },
     {
       "slug": "kitgrade-scores",
@@ -295,7 +295,7 @@
         }
       ],
       "license": "CC-BY-4.0",
-      "citation": "Kynth Studios (2026). KitGrade: the component scores behind every kit grade. KitGrade, https://kitgrade.kynth.studio. Cut of 2026-09-04. Creative Commons Attribution 4.0 International (CC BY 4.0). https://github.com/kyisaiah47/kynth-datasets/tree/main/kitgrade-scores"
+      "citation": "Compound Labs (2026). KitGrade: the component scores behind every kit grade. KitGrade, https://kitgrade.kynth.studio. Cut of 2026-09-04. Creative Commons Attribution 4.0 International (CC BY 4.0). https://github.com/kyisaiah47/kynth-datasets/tree/main/kitgrade-scores"
     },
     {
       "slug": "storeready-builders",
@@ -325,7 +325,7 @@
         }
       ],
       "license": "CC-BY-4.0",
-      "citation": "Kynth Studios (2026). StoreReady: AI app builders and whether their output ships. StoreReady, https://storeready.kynth.studio. Cut of 2026-09-04. Creative Commons Attribution 4.0 International (CC BY 4.0). https://github.com/kyisaiah47/kynth-datasets/tree/main/storeready-builders"
+      "citation": "Compound Labs (2026). StoreReady: AI app builders and whether their output ships. StoreReady, https://storeready.kynth.studio. Cut of 2026-09-04. Creative Commons Attribution 4.0 International (CC BY 4.0). https://github.com/kyisaiah47/kynth-datasets/tree/main/storeready-builders"
     },
     {
       "slug": "storeready-evidence",
@@ -355,7 +355,7 @@
         }
       ],
       "license": "CC-BY-4.0",
-      "citation": "Kynth Studios (2026). StoreReady: the cited evidence behind every verdict. StoreReady, https://storeready.kynth.studio. Cut of 2026-09-04. Creative Commons Attribution 4.0 International (CC BY 4.0). https://github.com/kyisaiah47/kynth-datasets/tree/main/storeready-evidence"
+      "citation": "Compound Labs (2026). StoreReady: the cited evidence behind every verdict. StoreReady, https://storeready.kynth.studio. Cut of 2026-09-04. Creative Commons Attribution 4.0 International (CC BY 4.0). https://github.com/kyisaiah47/kynth-datasets/tree/main/storeready-evidence"
     },
     {
       "slug": "blockdex-registries",
@@ -385,7 +385,7 @@
         }
       ],
       "license": "CC-BY-4.0",
-      "citation": "Kynth Studios (2026). BlockDex: every public shadcn registry. BlockDex, https://blockdex.kynth.studio. Cut of 2026-09-04. Creative Commons Attribution 4.0 International (CC BY 4.0). https://github.com/kyisaiah47/kynth-datasets/tree/main/blockdex-registries"
+      "citation": "Compound Labs (2026). BlockDex: every public shadcn registry. BlockDex, https://blockdex.kynth.studio. Cut of 2026-09-04. Creative Commons Attribution 4.0 International (CC BY 4.0). https://github.com/kyisaiah47/kynth-datasets/tree/main/blockdex-registries"
     },
     {
       "slug": "blockdex-items",
@@ -415,7 +415,7 @@
         }
       ],
       "license": "CC-BY-4.0",
-      "citation": "Kynth Studios (2026). BlockDex: every component, block and theme inside those registries. BlockDex, https://blockdex.kynth.studio. Cut of 2026-09-04. Creative Commons Attribution 4.0 International (CC BY 4.0). https://github.com/kyisaiah47/kynth-datasets/tree/main/blockdex-items"
+      "citation": "Compound Labs (2026). BlockDex: every component, block and theme inside those registries. BlockDex, https://blockdex.kynth.studio. Cut of 2026-09-04. Creative Commons Attribution 4.0 International (CC BY 4.0). https://github.com/kyisaiah47/kynth-datasets/tree/main/blockdex-items"
     },
     {
       "slug": "stacktab-services",
@@ -445,7 +445,7 @@
         }
       ],
       "license": "CC-BY-4.0",
-      "citation": "Kynth Studios (2026). StackTab: the developer services under price watch. StackTab, https://stacktab.kynth.studio. Cut of 2026-09-04. Creative Commons Attribution 4.0 International (CC BY 4.0). https://github.com/kyisaiah47/kynth-datasets/tree/main/stacktab-services"
+      "citation": "Compound Labs (2026). StackTab: the developer services under price watch. StackTab, https://stacktab.kynth.studio. Cut of 2026-09-04. Creative Commons Attribution 4.0 International (CC BY 4.0). https://github.com/kyisaiah47/kynth-datasets/tree/main/stacktab-services"
     },
     {
       "slug": "stacktab-plans",
@@ -475,7 +475,7 @@
         }
       ],
       "license": "CC-BY-4.0",
-      "citation": "Kynth Studios (2026). StackTab: every plan, its price, and the page the price was read from. StackTab, https://stacktab.kynth.studio. Cut of 2026-09-04. Creative Commons Attribution 4.0 International (CC BY 4.0). https://github.com/kyisaiah47/kynth-datasets/tree/main/stacktab-plans"
+      "citation": "Compound Labs (2026). StackTab: every plan, its price, and the page the price was read from. StackTab, https://stacktab.kynth.studio. Cut of 2026-09-04. Creative Commons Attribution 4.0 International (CC BY 4.0). https://github.com/kyisaiah47/kynth-datasets/tree/main/stacktab-plans"
     },
     {
       "slug": "rulestack-formats",
@@ -505,7 +505,7 @@
         }
       ],
       "license": "CC-BY-4.0",
-      "citation": "Kynth Studios (2026). RuleStack: the agent config formats and what each one supports. RuleStack, https://rulestack.kynth.studio. Cut of 2026-09-04. Creative Commons Attribution 4.0 International (CC BY 4.0). https://github.com/kyisaiah47/kynth-datasets/tree/main/rulestack-formats"
+      "citation": "Compound Labs (2026). RuleStack: the agent config formats and what each one supports. RuleStack, https://rulestack.kynth.studio. Cut of 2026-09-04. Creative Commons Attribution 4.0 International (CC BY 4.0). https://github.com/kyisaiah47/kynth-datasets/tree/main/rulestack-formats"
     },
     {
       "slug": "rulestack-format-stats",
@@ -535,7 +535,7 @@
         }
       ],
       "license": "CC-BY-4.0",
-      "citation": "Kynth Studios (2026). RuleStack: how much each config format is actually used, day by day. RuleStack, https://rulestack.kynth.studio. Cut of 2026-09-04. Creative Commons Attribution 4.0 International (CC BY 4.0). https://github.com/kyisaiah47/kynth-datasets/tree/main/rulestack-format-stats"
+      "citation": "Compound Labs (2026). RuleStack: how much each config format is actually used, day by day. RuleStack, https://rulestack.kynth.studio. Cut of 2026-09-04. Creative Commons Attribution 4.0 International (CC BY 4.0). https://github.com/kyisaiah47/kynth-datasets/tree/main/rulestack-format-stats"
     },
     {
       "slug": "shipwall-products",
@@ -565,7 +565,7 @@
         }
       ],
       "license": "CC-BY-4.0",
-      "citation": "Kynth Studios (2026). ShipWall: launched products and the badge check behind each one. ShipWall, https://shipwall.kynth.studio. Cut of 2026-09-04. Creative Commons Attribution 4.0 International (CC BY 4.0). https://github.com/kyisaiah47/kynth-datasets/tree/main/shipwall-products"
+      "citation": "Compound Labs (2026). ShipWall: launched products and the badge check behind each one. ShipWall, https://shipwall.kynth.studio. Cut of 2026-09-04. Creative Commons Attribution 4.0 International (CC BY 4.0). https://github.com/kyisaiah47/kynth-datasets/tree/main/shipwall-products"
     }
   ]
 }

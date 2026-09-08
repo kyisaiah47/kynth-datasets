@@ -11,7 +11,7 @@ One row per piece of evidence: which builder it is about, which claim it support
 | Measured by | [StoreReady](https://storeready.kynth.studio) |
 | Method | [https://toolproof.kynth.studio/methodology](https://toolproof.kynth.studio/methodology) |
 | Licence | [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) |
-| Publisher | [Kynth Studios](https://kynth.studio) |
+| Publisher | [Compound Labs](https://thecompound.tech) |
 
 ## How it is measured
 
@@ -56,9 +56,9 @@ Kynth Studios (2026). StoreReady: the cited evidence behind every verdict. Store
 ```bibtex
 @dataset{kynth_storeready_evidence_2026,
   title     = {StoreReady: the cited evidence behind every verdict},
-  author    = {{Kynth Studios}},
+  author    = {{Compound Labs}},
   year      = {2026},
-  publisher = {Kynth Studios},
+  publisher = {Compound Labs},
   url       = {https://github.com/kyisaiah47/kynth-datasets/tree/main/storeready-evidence},
   note      = {Cut of 2026-09-04. Measured by StoreReady, https://storeready.kynth.studio},
   license   = {CC-BY-4.0}

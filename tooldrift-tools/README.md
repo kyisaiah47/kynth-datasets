@@ -11,7 +11,7 @@ One row per AI coding tool watched nightly: its layer in the stack, its vendor, 
 | Measured by | [ToolDrift](https://tooldrift.kynth.studio) |
 | Method | [https://toolproof.kynth.studio/methodology](https://toolproof.kynth.studio/methodology) |
 | Licence | [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) |
-| Publisher | [Kynth Studios](https://kynth.studio) |
+| Publisher | [Compound Labs](https://thecompound.tech) |
 
 ## How it is measured
 
@@ -80,9 +80,9 @@ Kynth Studios (2026). ToolDrift: the AI coding tools under watch. ToolDrift, htt
 ```bibtex
 @dataset{kynth_tooldrift_tools_2026,
   title     = {ToolDrift: the AI coding tools under watch},
-  author    = {{Kynth Studios}},
+  author    = {{Compound Labs}},
   year      = {2026},
-  publisher = {Kynth Studios},
+  publisher = {Compound Labs},
   url       = {https://github.com/kyisaiah47/kynth-datasets/tree/main/tooldrift-tools},
   note      = {Cut of 2026-09-04. Measured by ToolDrift, https://tooldrift.kynth.studio},
   license   = {CC-BY-4.0}

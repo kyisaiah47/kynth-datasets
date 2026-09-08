@@ -11,7 +11,7 @@ One row per app per ranking window per capture, with the tool it maps to where T
 | Measured by | [ToolDrift](https://tooldrift.kynth.studio) |
 | Method | [https://toolproof.kynth.studio/methodology](https://toolproof.kynth.studio/methodology) |
 | Licence | [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) |
-| Publisher | [Kynth Studios](https://kynth.studio) |
+| Publisher | [Compound Labs](https://thecompound.tech) |
 
 ## How it is measured
 
@@ -54,9 +54,9 @@ Kynth Studios (2026). ToolDrift: OpenRouter app usage rankings, captured daily. 
 ```bibtex
 @dataset{kynth_tooldrift_app_rankings_2026,
   title     = {ToolDrift: OpenRouter app usage rankings, captured daily},
-  author    = {{Kynth Studios}},
+  author    = {{Compound Labs}},
   year      = {2026},
-  publisher = {Kynth Studios},
+  publisher = {Compound Labs},
   url       = {https://github.com/kyisaiah47/kynth-datasets/tree/main/tooldrift-app-rankings},
   note      = {Cut of 2026-09-04. Measured by ToolDrift, https://tooldrift.kynth.studio},
   license   = {CC-BY-4.0}

@@ -11,7 +11,7 @@ One row per product that has launched on the board: what it is, where it lives, 
 | Measured by | [ShipWall](https://shipwall.kynth.studio) |
 | Method | [https://toolproof.kynth.studio/methodology](https://toolproof.kynth.studio/methodology) |
 | Licence | [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) |
-| Publisher | [Kynth Studios](https://kynth.studio) |
+| Publisher | [Compound Labs](https://thecompound.tech) |
 
 ## How it is measured
 
@@ -69,9 +69,9 @@ Kynth Studios (2026). ShipWall: launched products and the badge check behind eac
 ```bibtex
 @dataset{kynth_shipwall_products_2026,
   title     = {ShipWall: launched products and the badge check behind each one},
-  author    = {{Kynth Studios}},
+  author    = {{Compound Labs}},
   year      = {2026},
-  publisher = {Kynth Studios},
+  publisher = {Compound Labs},
   url       = {https://github.com/kyisaiah47/kynth-datasets/tree/main/shipwall-products},
   note      = {Cut of 2026-09-04. Measured by ShipWall, https://shipwall.kynth.studio},
   license   = {CC-BY-4.0}

@@ -11,7 +11,7 @@ One row per graded SaaS starter kit: its stack, licence and pricing, the release
 | Measured by | [KitGrade](https://kitgrade.kynth.studio) |
 | Method | [https://toolproof.kynth.studio/methodology](https://toolproof.kynth.studio/methodology) |
 | Licence | [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) |
-| Publisher | [Kynth Studios](https://kynth.studio) |
+| Publisher | [Compound Labs](https://thecompound.tech) |
 
 ## How it is measured
 
@@ -89,9 +89,9 @@ Kynth Studios (2026). KitGrade: SaaS starter kits and what is measurably in the 
 ```bibtex
 @dataset{kynth_kitgrade_kits_2026,
   title     = {KitGrade: SaaS starter kits and what is measurably in the box},
-  author    = {{Kynth Studios}},
+  author    = {{Compound Labs}},
   year      = {2026},
-  publisher = {Kynth Studios},
+  publisher = {Compound Labs},
   url       = {https://github.com/kyisaiah47/kynth-datasets/tree/main/kitgrade-kits},
   note      = {Cut of 2026-09-04. Measured by KitGrade, https://kitgrade.kynth.studio},
   license   = {CC-BY-4.0}

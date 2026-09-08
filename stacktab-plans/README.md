@@ -11,7 +11,7 @@ One row per published plan: its base monthly price in USD, what the plan include
 | Measured by | [StackTab](https://stacktab.kynth.studio) |
 | Method | [https://toolproof.kynth.studio/methodology](https://toolproof.kynth.studio/methodology) |
 | Licence | [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) |
-| Publisher | [Kynth Studios](https://kynth.studio) |
+| Publisher | [Compound Labs](https://thecompound.tech) |
 
 ## How it is measured
 
@@ -61,9 +61,9 @@ Kynth Studios (2026). StackTab: every plan, its price, and the page the price wa
 ```bibtex
 @dataset{kynth_stacktab_plans_2026,
   title     = {StackTab: every plan, its price, and the page the price was read from},
-  author    = {{Kynth Studios}},
+  author    = {{Compound Labs}},
   year      = {2026},
-  publisher = {Kynth Studios},
+  publisher = {Compound Labs},
   url       = {https://github.com/kyisaiah47/kynth-datasets/tree/main/stacktab-plans},
   note      = {Cut of 2026-09-04. Measured by StackTab, https://stacktab.kynth.studio},
   license   = {CC-BY-4.0}

@@ -11,7 +11,7 @@ One row per index under the Toolproof masthead: what it measures, the method beh
 | Measured by | [Toolproof](https://toolproof.kynth.studio) |
 | Method | [https://toolproof.kynth.studio/methodology](https://toolproof.kynth.studio/methodology) |
 | Licence | [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) |
-| Publisher | [Kynth Studios](https://kynth.studio) |
+| Publisher | [Compound Labs](https://thecompound.tech) |
 
 ## How it is measured
 
@@ -62,9 +62,9 @@ Kynth Studios (2026). Toolproof: the nine indexes and what each one currently me
 ```bibtex
 @dataset{kynth_toolproof_indexes_2026,
   title     = {Toolproof: the nine indexes and what each one currently measures},
-  author    = {{Kynth Studios}},
+  author    = {{Compound Labs}},
   year      = {2026},
-  publisher = {Kynth Studios},
+  publisher = {Compound Labs},
   url       = {https://github.com/kyisaiah47/kynth-datasets/tree/main/toolproof-indexes},
   note      = {Cut of 2026-09-04. Measured by Toolproof, https://toolproof.kynth.studio},
   license   = {CC-BY-4.0}
