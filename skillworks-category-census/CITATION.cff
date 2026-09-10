@@ -4,10 +4,10 @@ title: "SkillWorks: Claude Code artefacts by category and kind"
 abstract: "A structural census of the public Claude Code artefact ecosystem, aggregated to one row per category and artefact kind: how many listings the index holds, how many distinct repositories they came from, how many do not parse into something Claude Code could load, and the mean of the 0-100 score."
 type: dataset
 authors:
-  - name: "Kynth Studios"
-    website: "https://kynth.studio"
-version: "2026-09-04"
-date-released: "2026-09-04"
+  - name: "Compound Labs"
+    website: "https://thecompound.tech"
+version: "2026-09-10"
+date-released: "2026-09-10"
 license: CC-BY-4.0
 url: "https://github.com/kyisaiah47/kynth-datasets/tree/main/skillworks-category-census"
 repository: "https://github.com/kyisaiah47/kynth-datasets"
