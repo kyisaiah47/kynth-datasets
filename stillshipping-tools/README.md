@@ -9,7 +9,7 @@ One row per tracked AI agent tool, with the nightly maintenance verdict (maintai
 | Cut | 2026-09-04 |
 | Refreshed | Monthly, on the first of the month |
 | Measured by | [StillShipping](https://stillshipping.kynth.studio) |
-| Method | [https://toolproof.kynth.studio/methodology](https://toolproof.kynth.studio/methodology) |
+| Method | [https://toolproof.thecompound.tech/methodology](https://toolproof.thecompound.tech/methodology) |
 | Licence | [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) |
 | Publisher | [Compound Labs](https://thecompound.tech) |
 
@@ -79,7 +79,7 @@ citation can pin the exact edition it quoted.
 ## Cite it
 
 ```
-Kynth Studios (2026). StillShipping: maintenance verdict for every tracked agent tool. StillShipping, https://stillshipping.kynth.studio. Cut of 2026-09-04. Creative Commons Attribution 4.0 International (CC BY 4.0). https://github.com/kyisaiah47/compound-datasets/tree/main/stillshipping-tools
+Compound Labs (2026). StillShipping: maintenance verdict for every tracked agent tool. StillShipping, https://stillshipping.thecompound.tech. Cut of 2026-09-04. Creative Commons Attribution 4.0 International (CC BY 4.0). https://github.com/kyisaiah47/compound-datasets/tree/main/stillshipping-tools
 ```
 
 ```bibtex

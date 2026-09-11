@@ -9,7 +9,7 @@ One row per app per ranking window per capture, with the tool it maps to where T
 | Cut | 2026-09-04 |
 | Refreshed | Monthly, on the first of the month |
 | Measured by | [ToolDrift](https://tooldrift.kynth.studio) |
-| Method | [https://toolproof.kynth.studio/methodology](https://toolproof.kynth.studio/methodology) |
+| Method | [https://toolproof.thecompound.tech/methodology](https://toolproof.thecompound.tech/methodology) |
 | Licence | [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) |
 | Publisher | [Compound Labs](https://thecompound.tech) |
 

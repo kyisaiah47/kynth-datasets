@@ -9,7 +9,7 @@ One row per format per day: how many repositories carry it, how many config file
 | Cut | 2026-09-04 |
 | Refreshed | Monthly, on the first of the month |
 | Measured by | [RuleStack](https://rulestack.kynth.studio) |
-| Method | [https://toolproof.kynth.studio/methodology](https://toolproof.kynth.studio/methodology) |
+| Method | [https://toolproof.thecompound.tech/methodology](https://toolproof.thecompound.tech/methodology) |
 | Licence | [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) |
 | Publisher | [Compound Labs](https://thecompound.tech) |
 
@@ -52,7 +52,7 @@ citation can pin the exact edition it quoted.
 ## Cite it
 
 ```
-Kynth Studios (2026). RuleStack: how much each config format is actually used, day by day. RuleStack, https://rulestack.kynth.studio. Cut of 2026-09-04. Creative Commons Attribution 4.0 International (CC BY 4.0). https://github.com/kyisaiah47/compound-datasets/tree/main/rulestack-format-stats
+Compound Labs (2026). RuleStack: how much each config format is actually used, day by day. RuleStack, https://rulestack.thecompound.tech. Cut of 2026-09-04. Creative Commons Attribution 4.0 International (CC BY 4.0). https://github.com/kyisaiah47/compound-datasets/tree/main/rulestack-format-stats
 ```
 
 ```bibtex

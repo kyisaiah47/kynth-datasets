@@ -4,8 +4,8 @@ title: "StackTab: every plan, its price, and the page the price was read from"
 abstract: "One row per published plan: its base monthly price in USD, what the plan includes, the restrictions attached to it, and the URL the figure was read from with the date it was last checked."
 type: dataset
 authors:
-  - name: "Kynth Studios"
-    website: "https://kynth.studio"
+  - name: "Compound Labs"
+    website: "https://thecompound.tech"
 version: "2026-09-04"
 date-released: "2026-09-04"
 license: CC-BY-4.0

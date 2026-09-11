@@ -4,8 +4,8 @@ title: "KitGrade: the component scores behind every kit grade"
 abstract: "One row per kit carrying the six component scores the total is composed from, the method version that produced them, and the full breakdown JSON."
 type: dataset
 authors:
-  - name: "Kynth Studios"
-    website: "https://kynth.studio"
+  - name: "Compound Labs"
+    website: "https://thecompound.tech"
 version: "2026-09-04"
 date-released: "2026-09-04"
 license: CC-BY-4.0
