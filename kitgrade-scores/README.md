@@ -28,7 +28,7 @@ Each component is computed from the measured facts in the kits table by a versio
 | `kitgrade-scores-2026-09-04.csv` | CSV | 0.02 MB |
 | `kitgrade-scores-2026-09-04.json` | JSON | 0.02 MB |
 
-Every cut is also a [GitHub release](https://github.com/kyisaiah47/kynth-datasets/releases) with the same files attached, so a
+Every cut is also a [GitHub release](https://github.com/kyisaiah47/compound-datasets/releases) with the same files attached, so a
 citation can pin the exact edition it quoted.
 
 ## Schema
@@ -51,7 +51,7 @@ citation can pin the exact edition it quoted.
 ## Cite it
 
 ```
-Kynth Studios (2026). KitGrade: the component scores behind every kit grade. KitGrade, https://kitgrade.kynth.studio. Cut of 2026-09-04. Creative Commons Attribution 4.0 International (CC BY 4.0). https://github.com/kyisaiah47/kynth-datasets/tree/main/kitgrade-scores
+Kynth Studios (2026). KitGrade: the component scores behind every kit grade. KitGrade, https://kitgrade.kynth.studio. Cut of 2026-09-04. Creative Commons Attribution 4.0 International (CC BY 4.0). https://github.com/kyisaiah47/compound-datasets/tree/main/kitgrade-scores
 ```
 
 ```bibtex
@@ -60,7 +60,7 @@ Kynth Studios (2026). KitGrade: the component scores behind every kit grade. Kit
   author    = {{Compound Labs}},
   year      = {2026},
   publisher = {Compound Labs},
-  url       = {https://github.com/kyisaiah47/kynth-datasets/tree/main/kitgrade-scores},
+  url       = {https://github.com/kyisaiah47/compound-datasets/tree/main/kitgrade-scores},
   note      = {Cut of 2026-09-04. Measured by KitGrade, https://kitgrade.kynth.studio},
   license   = {CC-BY-4.0}
 }

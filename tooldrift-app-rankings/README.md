@@ -28,7 +28,7 @@ The public OpenRouter app rankings are fetched on a schedule and stored as captu
 | `tooldrift-app-rankings-2026-09-04.csv` | CSV | 0.05 MB |
 | `tooldrift-app-rankings-2026-09-04.json` | JSON | 0.13 MB |
 
-Every cut is also a [GitHub release](https://github.com/kyisaiah47/kynth-datasets/releases) with the same files attached, so a
+Every cut is also a [GitHub release](https://github.com/kyisaiah47/compound-datasets/releases) with the same files attached, so a
 citation can pin the exact edition it quoted.
 
 ## Schema
@@ -48,7 +48,7 @@ citation can pin the exact edition it quoted.
 ## Cite it
 
 ```
-Kynth Studios (2026). ToolDrift: OpenRouter app usage rankings, captured daily. ToolDrift, https://tooldrift.kynth.studio. Cut of 2026-09-04. Creative Commons Attribution 4.0 International (CC BY 4.0). https://github.com/kyisaiah47/kynth-datasets/tree/main/tooldrift-app-rankings
+Kynth Studios (2026). ToolDrift: OpenRouter app usage rankings, captured daily. ToolDrift, https://tooldrift.kynth.studio. Cut of 2026-09-04. Creative Commons Attribution 4.0 International (CC BY 4.0). https://github.com/kyisaiah47/compound-datasets/tree/main/tooldrift-app-rankings
 ```
 
 ```bibtex
@@ -57,7 +57,7 @@ Kynth Studios (2026). ToolDrift: OpenRouter app usage rankings, captured daily. 
   author    = {{Compound Labs}},
   year      = {2026},
   publisher = {Compound Labs},
-  url       = {https://github.com/kyisaiah47/kynth-datasets/tree/main/tooldrift-app-rankings},
+  url       = {https://github.com/kyisaiah47/compound-datasets/tree/main/tooldrift-app-rankings},
   note      = {Cut of 2026-09-04. Measured by ToolDrift, https://tooldrift.kynth.studio},
   license   = {CC-BY-4.0}
 }

@@ -29,7 +29,7 @@ Each registry is crawled and its items are read individually from the registry J
 | `blockdex-items-2026-09-04.csv.gz` | CSV, gzipped | 5.4 MB |
 | `blockdex-items-2026-09-04.json.gz` | JSON, gzipped | 6.0 MB |
 
-Every cut is also a [GitHub release](https://github.com/kyisaiah47/kynth-datasets/releases) with the same files attached, so a
+Every cut is also a [GitHub release](https://github.com/kyisaiah47/compound-datasets/releases) with the same files attached, so a
 citation can pin the exact edition it quoted.
 
 ## Schema
@@ -67,7 +67,7 @@ citation can pin the exact edition it quoted.
 ## Cite it
 
 ```
-Kynth Studios (2026). BlockDex: every component, block and theme inside those registries. BlockDex, https://blockdex.kynth.studio. Cut of 2026-09-04. Creative Commons Attribution 4.0 International (CC BY 4.0). https://github.com/kyisaiah47/kynth-datasets/tree/main/blockdex-items
+Kynth Studios (2026). BlockDex: every component, block and theme inside those registries. BlockDex, https://blockdex.kynth.studio. Cut of 2026-09-04. Creative Commons Attribution 4.0 International (CC BY 4.0). https://github.com/kyisaiah47/compound-datasets/tree/main/blockdex-items
 ```
 
 ```bibtex
@@ -76,7 +76,7 @@ Kynth Studios (2026). BlockDex: every component, block and theme inside those re
   author    = {{Compound Labs}},
   year      = {2026},
   publisher = {Compound Labs},
-  url       = {https://github.com/kyisaiah47/kynth-datasets/tree/main/blockdex-items},
+  url       = {https://github.com/kyisaiah47/compound-datasets/tree/main/blockdex-items},
   note      = {Cut of 2026-09-04. Measured by BlockDex, https://blockdex.kynth.studio},
   license   = {CC-BY-4.0}
 }

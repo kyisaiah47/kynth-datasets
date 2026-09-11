@@ -29,7 +29,7 @@ Read from https://toolproof.kynth.studio/api/index.json, which builds itself by 
 | `toolproof-indexes-2026-09-04.csv` | CSV | 0.00 MB |
 | `toolproof-indexes-2026-09-04.json` | JSON | 0.01 MB |
 
-Every cut is also a [GitHub release](https://github.com/kyisaiah47/kynth-datasets/releases) with the same files attached, so a
+Every cut is also a [GitHub release](https://github.com/kyisaiah47/compound-datasets/releases) with the same files attached, so a
 citation can pin the exact edition it quoted.
 
 ## Schema
@@ -56,7 +56,7 @@ citation can pin the exact edition it quoted.
 ## Cite it
 
 ```
-Kynth Studios (2026). Toolproof: the nine indexes and what each one currently measures. Toolproof, https://toolproof.kynth.studio. Cut of 2026-09-04. Creative Commons Attribution 4.0 International (CC BY 4.0). https://github.com/kyisaiah47/kynth-datasets/tree/main/toolproof-indexes
+Kynth Studios (2026). Toolproof: the nine indexes and what each one currently measures. Toolproof, https://toolproof.kynth.studio. Cut of 2026-09-04. Creative Commons Attribution 4.0 International (CC BY 4.0). https://github.com/kyisaiah47/compound-datasets/tree/main/toolproof-indexes
 ```
 
 ```bibtex
@@ -65,7 +65,7 @@ Kynth Studios (2026). Toolproof: the nine indexes and what each one currently me
   author    = {{Compound Labs}},
   year      = {2026},
   publisher = {Compound Labs},
-  url       = {https://github.com/kyisaiah47/kynth-datasets/tree/main/toolproof-indexes},
+  url       = {https://github.com/kyisaiah47/compound-datasets/tree/main/toolproof-indexes},
   note      = {Cut of 2026-09-04. Measured by Toolproof, https://toolproof.kynth.studio},
   license   = {CC-BY-4.0}
 }

@@ -29,7 +29,7 @@ Each plan is re-checked on a schedule against its own pricing page. `price_statu
 | `stacktab-plans-2026-09-04.csv` | CSV | 0.02 MB |
 | `stacktab-plans-2026-09-04.json` | JSON | 0.03 MB |
 
-Every cut is also a [GitHub release](https://github.com/kyisaiah47/kynth-datasets/releases) with the same files attached, so a
+Every cut is also a [GitHub release](https://github.com/kyisaiah47/compound-datasets/releases) with the same files attached, so a
 citation can pin the exact edition it quoted.
 
 ## Schema
@@ -55,7 +55,7 @@ citation can pin the exact edition it quoted.
 ## Cite it
 
 ```
-Kynth Studios (2026). StackTab: every plan, its price, and the page the price was read from. StackTab, https://stacktab.kynth.studio. Cut of 2026-09-04. Creative Commons Attribution 4.0 International (CC BY 4.0). https://github.com/kyisaiah47/kynth-datasets/tree/main/stacktab-plans
+Kynth Studios (2026). StackTab: every plan, its price, and the page the price was read from. StackTab, https://stacktab.kynth.studio. Cut of 2026-09-04. Creative Commons Attribution 4.0 International (CC BY 4.0). https://github.com/kyisaiah47/compound-datasets/tree/main/stacktab-plans
 ```
 
 ```bibtex
@@ -64,7 +64,7 @@ Kynth Studios (2026). StackTab: every plan, its price, and the page the price wa
   author    = {{Compound Labs}},
   year      = {2026},
   publisher = {Compound Labs},
-  url       = {https://github.com/kyisaiah47/kynth-datasets/tree/main/stacktab-plans},
+  url       = {https://github.com/kyisaiah47/compound-datasets/tree/main/stacktab-plans},
   note      = {Cut of 2026-09-04. Measured by StackTab, https://stacktab.kynth.studio},
   license   = {CC-BY-4.0}
 }

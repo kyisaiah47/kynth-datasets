@@ -20,7 +20,7 @@ Everything here is [Creative Commons Attribution 4.0 International](https://crea
 ## Cuts
 
 A new cut is taken monthly, on the first of the month and published as a
-[GitHub release](https://github.com/kyisaiah47/kynth-datasets/releases) tagged `cut-YYYY-MM-DD`, with the CSV and JSON for
+[GitHub release](https://github.com/kyisaiah47/compound-datasets/releases) tagged `cut-YYYY-MM-DD`, with the CSV and JSON for
 every dataset attached. The files in the tree are always the newest cut; a release is how you
 pin the exact edition a paper or a post quoted.
 

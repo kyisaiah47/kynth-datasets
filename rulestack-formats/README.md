@@ -28,7 +28,7 @@ Every support flag is read from the format's own published specification or docu
 | `rulestack-formats-2026-09-04.csv` | CSV | 0.01 MB |
 | `rulestack-formats-2026-09-04.json` | JSON | 0.01 MB |
 
-Every cut is also a [GitHub release](https://github.com/kyisaiah47/kynth-datasets/releases) with the same files attached, so a
+Every cut is also a [GitHub release](https://github.com/kyisaiah47/compound-datasets/releases) with the same files attached, so a
 citation can pin the exact edition it quoted.
 
 ## Schema
@@ -63,7 +63,7 @@ citation can pin the exact edition it quoted.
 ## Cite it
 
 ```
-Kynth Studios (2026). RuleStack: the agent config formats and what each one supports. RuleStack, https://rulestack.kynth.studio. Cut of 2026-09-04. Creative Commons Attribution 4.0 International (CC BY 4.0). https://github.com/kyisaiah47/kynth-datasets/tree/main/rulestack-formats
+Kynth Studios (2026). RuleStack: the agent config formats and what each one supports. RuleStack, https://rulestack.kynth.studio. Cut of 2026-09-04. Creative Commons Attribution 4.0 International (CC BY 4.0). https://github.com/kyisaiah47/compound-datasets/tree/main/rulestack-formats
 ```
 
 ```bibtex
@@ -72,7 +72,7 @@ Kynth Studios (2026). RuleStack: the agent config formats and what each one supp
   author    = {{Compound Labs}},
   year      = {2026},
   publisher = {Compound Labs},
-  url       = {https://github.com/kyisaiah47/kynth-datasets/tree/main/rulestack-formats},
+  url       = {https://github.com/kyisaiah47/compound-datasets/tree/main/rulestack-formats},
   note      = {Cut of 2026-09-04. Measured by RuleStack, https://rulestack.kynth.studio},
   license   = {CC-BY-4.0}
 }

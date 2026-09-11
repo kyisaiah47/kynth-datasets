@@ -29,7 +29,7 @@ Kits are graded from measured facts rather than from their own landing pages. A 
 | `kitgrade-kits-2026-09-04.csv` | CSV | 0.08 MB |
 | `kitgrade-kits-2026-09-04.json` | JSON | 0.09 MB |
 
-Every cut is also a [GitHub release](https://github.com/kyisaiah47/kynth-datasets/releases) with the same files attached, so a
+Every cut is also a [GitHub release](https://github.com/kyisaiah47/compound-datasets/releases) with the same files attached, so a
 citation can pin the exact edition it quoted.
 
 ## Schema
@@ -83,7 +83,7 @@ citation can pin the exact edition it quoted.
 ## Cite it
 
 ```
-Kynth Studios (2026). KitGrade: SaaS starter kits and what is measurably in the box. KitGrade, https://kitgrade.kynth.studio. Cut of 2026-09-04. Creative Commons Attribution 4.0 International (CC BY 4.0). https://github.com/kyisaiah47/kynth-datasets/tree/main/kitgrade-kits
+Kynth Studios (2026). KitGrade: SaaS starter kits and what is measurably in the box. KitGrade, https://kitgrade.kynth.studio. Cut of 2026-09-04. Creative Commons Attribution 4.0 International (CC BY 4.0). https://github.com/kyisaiah47/compound-datasets/tree/main/kitgrade-kits
 ```
 
 ```bibtex
@@ -92,7 +92,7 @@ Kynth Studios (2026). KitGrade: SaaS starter kits and what is measurably in the 
   author    = {{Compound Labs}},
   year      = {2026},
   publisher = {Compound Labs},
-  url       = {https://github.com/kyisaiah47/kynth-datasets/tree/main/kitgrade-kits},
+  url       = {https://github.com/kyisaiah47/compound-datasets/tree/main/kitgrade-kits},
   note      = {Cut of 2026-09-04. Measured by KitGrade, https://kitgrade.kynth.studio},
   license   = {CC-BY-4.0}
 }

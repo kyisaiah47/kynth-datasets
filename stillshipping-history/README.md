@@ -28,7 +28,7 @@ A snapshot is written every night after the verdicts are recomputed, from the sa
 | `stillshipping-history-2026-09-04.csv` | CSV | 6.9 MB |
 | `stillshipping-history-2026-09-04.json` | JSON | 8.4 MB |
 
-Every cut is also a [GitHub release](https://github.com/kyisaiah47/kynth-datasets/releases) with the same files attached, so a
+Every cut is also a [GitHub release](https://github.com/kyisaiah47/compound-datasets/releases) with the same files attached, so a
 citation can pin the exact edition it quoted.
 
 ## Schema
@@ -53,7 +53,7 @@ citation can pin the exact edition it quoted.
 ## Cite it
 
 ```
-Kynth Studios (2026). StillShipping: the daily verdict history. StillShipping, https://stillshipping.kynth.studio. Cut of 2026-09-04. Creative Commons Attribution 4.0 International (CC BY 4.0). https://github.com/kyisaiah47/kynth-datasets/tree/main/stillshipping-history
+Kynth Studios (2026). StillShipping: the daily verdict history. StillShipping, https://stillshipping.kynth.studio. Cut of 2026-09-04. Creative Commons Attribution 4.0 International (CC BY 4.0). https://github.com/kyisaiah47/compound-datasets/tree/main/stillshipping-history
 ```
 
 ```bibtex
@@ -62,7 +62,7 @@ Kynth Studios (2026). StillShipping: the daily verdict history. StillShipping, h
   author    = {{Compound Labs}},
   year      = {2026},
   publisher = {Compound Labs},
-  url       = {https://github.com/kyisaiah47/kynth-datasets/tree/main/stillshipping-history},
+  url       = {https://github.com/kyisaiah47/compound-datasets/tree/main/stillshipping-history},
   note      = {Cut of 2026-09-04. Measured by StillShipping, https://stillshipping.kynth.studio},
   license   = {CC-BY-4.0}
 }

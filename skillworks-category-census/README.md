@@ -44,7 +44,7 @@ from sw_listings group by 1, 2
 | `skillworks-category-census-2026-09-10.csv` | CSV | 0.00 MB |
 | `skillworks-category-census-2026-09-10.json` | JSON | 0.02 MB |
 
-Every cut is also a [GitHub release](https://github.com/kyisaiah47/kynth-datasets/releases) with the same files attached, so a
+Every cut is also a [GitHub release](https://github.com/kyisaiah47/compound-datasets/releases) with the same files attached, so a
 citation can pin the exact edition it quoted.
 
 ## Schema
@@ -66,7 +66,7 @@ citation can pin the exact edition it quoted.
 ## Cite it
 
 ```
-Compound Labs (2026). SkillWorks: Claude Code artefacts by category and kind. SkillWorks, https://skillworks.thecompound.tech. Cut of 2026-09-10. Creative Commons Attribution 4.0 International (CC BY 4.0). https://github.com/kyisaiah47/kynth-datasets/tree/main/skillworks-category-census
+Compound Labs (2026). SkillWorks: Claude Code artefacts by category and kind. SkillWorks, https://skillworks.thecompound.tech. Cut of 2026-09-10. Creative Commons Attribution 4.0 International (CC BY 4.0). https://github.com/kyisaiah47/compound-datasets/tree/main/skillworks-category-census
 ```
 
 ```bibtex
@@ -75,7 +75,7 @@ Compound Labs (2026). SkillWorks: Claude Code artefacts by category and kind. Sk
   author    = {{Compound Labs}},
   year      = {2026},
   publisher = {Compound Labs},
-  url       = {https://github.com/kyisaiah47/kynth-datasets/tree/main/skillworks-category-census},
+  url       = {https://github.com/kyisaiah47/compound-datasets/tree/main/skillworks-category-census},
   note      = {Cut of 2026-09-10. Measured by SkillWorks, https://skillworks.thecompound.tech},
   license   = {CC-BY-4.0}
 }

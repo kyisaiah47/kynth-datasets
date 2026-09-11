@@ -29,7 +29,7 @@ Commit, release, issue and contributor activity is pulled from the GitHub API ni
 | `stillshipping-tools-2026-09-04.csv` | CSV | 0.41 MB |
 | `stillshipping-tools-2026-09-04.json` | JSON | 0.58 MB |
 
-Every cut is also a [GitHub release](https://github.com/kyisaiah47/kynth-datasets/releases) with the same files attached, so a
+Every cut is also a [GitHub release](https://github.com/kyisaiah47/compound-datasets/releases) with the same files attached, so a
 citation can pin the exact edition it quoted.
 
 ## Schema
@@ -79,7 +79,7 @@ citation can pin the exact edition it quoted.
 ## Cite it
 
 ```
-Kynth Studios (2026). StillShipping: maintenance verdict for every tracked agent tool. StillShipping, https://stillshipping.kynth.studio. Cut of 2026-09-04. Creative Commons Attribution 4.0 International (CC BY 4.0). https://github.com/kyisaiah47/kynth-datasets/tree/main/stillshipping-tools
+Kynth Studios (2026). StillShipping: maintenance verdict for every tracked agent tool. StillShipping, https://stillshipping.kynth.studio. Cut of 2026-09-04. Creative Commons Attribution 4.0 International (CC BY 4.0). https://github.com/kyisaiah47/compound-datasets/tree/main/stillshipping-tools
 ```
 
 ```bibtex
@@ -88,7 +88,7 @@ Kynth Studios (2026). StillShipping: maintenance verdict for every tracked agent
   author    = {{Compound Labs}},
   year      = {2026},
   publisher = {Compound Labs},
-  url       = {https://github.com/kyisaiah47/kynth-datasets/tree/main/stillshipping-tools},
+  url       = {https://github.com/kyisaiah47/compound-datasets/tree/main/stillshipping-tools},
   note      = {Cut of 2026-09-04. Measured by StillShipping, https://stillshipping.kynth.studio},
   license   = {CC-BY-4.0}
 }

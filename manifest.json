@@ -1,7 +1,7 @@
 {
   "publisher": "Compound Labs",
   "publisher_url": "https://thecompound.tech",
-  "repository": "https://github.com/kyisaiah47/kynth-datasets",
+  "repository": "https://github.com/kyisaiah47/compound-datasets",
   "page": "https://toolproof.thecompound.tech/datasets",
   "methodology": "https://toolproof.thecompound.tech/methodology",
   "license": "CC-BY-4.0",
@@ -10,7 +10,7 @@
   "cut": "2026-09-10",
   "cut_at": "2026-09-10T21:26:06.401Z",
   "release_tag": "cut-2026-09-10",
-  "release_url": "https://github.com/kyisaiah47/kynth-datasets/releases/tag/cut-2026-09-10",
+  "release_url": "https://github.com/kyisaiah47/compound-datasets/releases/tag/cut-2026-09-10",
   "mirrors": {},
   "never_published": [
     {
@@ -45,17 +45,17 @@
           "name": "skillworks-category-census-2026-09-10.csv",
           "format": "CSV",
           "bytes": 4359,
-          "url": "https://github.com/kyisaiah47/kynth-datasets/raw/main/skillworks-category-census/skillworks-category-census-2026-09-10.csv"
+          "url": "https://github.com/kyisaiah47/compound-datasets/raw/main/skillworks-category-census/skillworks-category-census-2026-09-10.csv"
         },
         {
           "name": "skillworks-category-census-2026-09-10.json",
           "format": "JSON",
           "bytes": 18115,
-          "url": "https://github.com/kyisaiah47/kynth-datasets/raw/main/skillworks-category-census/skillworks-category-census-2026-09-10.json"
+          "url": "https://github.com/kyisaiah47/compound-datasets/raw/main/skillworks-category-census/skillworks-category-census-2026-09-10.json"
         }
       ],
       "license": "CC-BY-4.0",
-      "citation": "Compound Labs (2026). SkillWorks: Claude Code artefacts by category and kind. SkillWorks, https://skillworks.thecompound.tech. Cut of 2026-09-10. Creative Commons Attribution 4.0 International (CC BY 4.0). https://github.com/kyisaiah47/kynth-datasets/tree/main/skillworks-category-census"
+      "citation": "Compound Labs (2026). SkillWorks: Claude Code artefacts by category and kind. SkillWorks, https://skillworks.thecompound.tech. Cut of 2026-09-10. Creative Commons Attribution 4.0 International (CC BY 4.0). https://github.com/kyisaiah47/compound-datasets/tree/main/skillworks-category-census"
     }
   ]
 }
